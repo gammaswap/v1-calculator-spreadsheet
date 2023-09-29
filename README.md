@@ -1,5 +1,5 @@
 # v1-calculator-spreadsheet
-Spreadsheet to calculate P/L, Time to Liquidation, Delta, Leverage, and Cost to open a long volatility position in GammaSwap
+Spreadsheet to calculate P/L, Time to Liquidation, Delta, Leverage, and Cost to open a long volatility position in GammaSwap. The explanation of where the math came for the formulas in the spreadsheet can be found here https://medium.com/gammaswap-labs/the-gammaswap-contract-p-l-strike-price-time-to-expiration-delta-and-fees-4391d593fef9
 
 ## Instructions
 Only edit orange fields. Non-orange fields are outputs.
