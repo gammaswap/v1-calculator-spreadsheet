@@ -2,7 +2,7 @@
 Spreadsheet to calculate P/L, Time to Liquidation, Delta, Leverage, and Cost to open a long volatility position in GammaSwap
 
 ## Instructions
-Only edit orange fields.
+Only edit orange fields. Non-orange fields are outputs.
 
 ## Input Field Descriptions
 <b>Deposit (USDC Buffer)</b> refers to the "Deposit" column when you have a position open in app.gammaSwap.com. In this spreadsheet you enter how much you want to have as collateral buffer for your position. This field refers to the "Collateral Buffer Formula" from above.
